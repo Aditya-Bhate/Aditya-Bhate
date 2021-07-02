@@ -18,7 +18,7 @@
 <a href="https://www.instagram.com/aditya_bhate_/">
   <img align="left" alt="Aditya Bhate | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<p > <img                        src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Aditya-bhate.visitor.badge.reloaded.23.05.2021&color=55acb7&style=for-the-badge&logo=Github&text=Profile_Views" alt="Profile Views" />
+<p > <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Aditya-bhate.visitor.badge.reloaded.23.05.2021&color=55acb7&style=for-the-badge&logo=Github&text=Profile_Views" alt="Profile Views" />
 </p>
 
 
