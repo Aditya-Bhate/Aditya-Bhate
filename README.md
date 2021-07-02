@@ -1,4 +1,5 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" >, I'm Aditya Bhate  😎 
+
 ---
 <a href="https://twitter.com/AdityaBhate4">
   <img align="left" alt="Aditya Bhate | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -13,12 +14,12 @@
 </a>
 
 <a href="https://github.com/Aditya-Bhate">
-  <img align="left" alt="Github" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Aditya Bhate | Github" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/aditya_bhate_/">
   <img align="left" alt="Aditya Bhate | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<p > <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Aditya-bhate.visitor.badge.reloaded.23.05.2021&color=55acb7&style=for-the-badge&logo=Github&text=Profile_Views" alt="Profile Views" />
+<p> <img img align="right" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Aditya-bhate.visitor.badge.reloaded.23.05.2021&color=55acb7&style=for-the-badge&logo=Github&text=Profile_Views" alt="Profile Views" />
 </p>
 
 
