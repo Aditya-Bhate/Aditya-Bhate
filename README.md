@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://adityakbhate123.medium.com/">
-  <img align="left" alt="Aditya Bhate | Publications" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  <img align="left" alt="Aditya Bhate | Publications" width="39px" src="https://img.shields.io/badge/-ffffff?style=flat-square&labelColor=000000&logo=Medium" />
 </a>
 
 <a href="https://github.com/Aditya-Bhate">
