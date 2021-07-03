@@ -49,8 +49,26 @@ I thoroughly enjoy tackling problems pertaining to technology and coming up with
 ❎ In case you find issues in any of my Repositories, you can Hit Me Up [here](https://github.com/Aditya-Bhate/Aditya-Bhate/issues)! 👈
 
 ---
+### Languages and Tools:
+
+<code><img height="30" src="https://img.icons8.com/color/48/000000/python--v1.png"/></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/c-programming.png"/></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/css3.png"/></code>
+<code><img height="30" src="https://img.icons8.com/ios-filled/50/000000/javascript-logo.png"/></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/artificial-intelligence.png"/></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/git.png"/></code>
+<code><img height="30" src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"/></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"/></code>
+<code><img height="30" src="https://img.icons8.com/fluent/48/000000/microsoft-powerpoint-2019.png"/></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/ms-word.png"/></code>
+
+---
 
 <img align="right" src="https://intro.rustbridge.com/img/ferris.gif" width="300">
+
 
 
 #### 📫 How to reach me:
@@ -73,6 +91,8 @@ I thoroughly enjoy tackling problems pertaining to technology and coming up with
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/aditya_bhate_/)&nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/aditya.bhate.3/)  &nbsp;<a href="mailto:adityakbhate123@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 
+ 
+ 
 
 <!--
 **Aditya-Bhate/Aditya-Bhate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
