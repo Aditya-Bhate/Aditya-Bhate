@@ -49,7 +49,7 @@ I thoroughly enjoy tackling problems pertaining to technology and coming up with
 ❎ In case you find issues in any of my Repositories, you can Hit Me Up [here](https://github.com/Aditya-Bhate/Aditya-Bhate/issues)! 👈
 
 ---
-### Languages and Tools:
+### Languages and Tools :
 
 <code><img height="30" src="https://img.icons8.com/color/48/000000/python--v1.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/c-programming.png"/></code>
@@ -68,6 +68,22 @@ I thoroughly enjoy tackling problems pertaining to technology and coming up with
 
 ---
 
+### Development Stats :
+
+<details>	
+  <summary><b>📊 Github Stats </b></summary><br/><br/>
+	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Bhate&layout=compact&theme=merko)](https://github.com/Aditya-Bhate/github-readme-stats)</br>
+
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=Aditya-Bhate&show_icons=true&theme=radical&hide_border=true")](https://github.com/Aditya-Bhate)
+</br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aditya-Bhate&repo=github-readme-stats&show_owner=true)](https://github.com/Aditya-Bhate/github-readme-stats)
+
+</details>
+
+
+
 <details>	
   <br/>
   <summary><b>⚙️ PC Specs and IDEs I use </b></summary>
@@ -80,14 +96,13 @@ I thoroughly enjoy tackling problems pertaining to technology and coming up with
 	</ul>	
 </details>
 
-
 ---
 
 <img align="right" src="https://intro.rustbridge.com/img/ferris.gif" width="300">
 
 
 
-#### 📫 How to reach me:
+### 📫 How to reach me :
 <a href="https://twitter.com/AdityaBhate4">
   <img align="left" alt="Aditya Bhate | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a> 
