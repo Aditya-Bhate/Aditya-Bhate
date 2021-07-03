@@ -33,12 +33,16 @@ I thoroughly enjoy tackling problems pertaining to technology and coming up with
 👨🏻‍💻 I’m currently learning to Machine learning, Deep Learning, NLP and much interested in Data science. 🤙
 
 🎈 My Hobbies :-
-   - Interest in Sports (⚽🏀🏸🏓🏏🎾🎯🪁🎮♟) 
-   - Like listening to music 🎶
-   - Nature Lover 🌴
-   - Like to Explore 😃!
+              ◾ Interest in Sports (⚽🏀🏸🏓🏏🎾🎯🪁🎮♟) 
+              ◾ Like listening to music 🎶
+              ◾ Nature Lover 🌴
+              ◾ Like to Explore 😃!
 
 ⚡ Fun fact :- Humans are the Only Animals That Enjoy Spicy Foods 😂
+
+✍️ Check out my writings on <a href="https://adityakbhate123.medium.com/">
+  <img alt="Aditya Bhate | Publications" width="70px" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
 
 📫 Reach me at : adityakbhate123@gmail.com  For any kind of assistance. I'm always ready to help ☺✌
 
