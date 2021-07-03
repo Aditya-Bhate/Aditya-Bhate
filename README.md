@@ -16,9 +16,15 @@
 <a href="https://github.com/Aditya-Bhate">
   <img align="left" alt="Aditya Bhate | Github" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+
 <a href="https://www.instagram.com/aditya_bhate_/">
   <img align="left" alt="Aditya Bhate | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+
+<a href="https://www.facebook.com/aditya.bhate.3/">
+  <img align="left" alt="Aditya Bhate | Facebook" width="48px" src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=Facebook" />
+</a>
+
 <p> <img img align="right" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Aditya-bhate.visitor.badge.reloaded.23.05.2021&color=55acb7&style=for-the-badge&logo=Github&text=Profile_Views" alt="Profile Views" />
 </p>
 
