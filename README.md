@@ -1,8 +1,6 @@
+<a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="200" /></a>
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" >, I'm Aditya Bhate  😎 
 
----
-
-<img align="right" src="https://tenor.com/view/coffee-lover-hot-coffee-coffee-cup-of-coffee-gif-17274356.gif" width="30">
 <p align=left>
 <img height="25" src="https://badges.pufler.dev/visits/Aditya-Bhate/Aditya-Bhate?color=black&logo=github" />
 <img height="25" src="https://komarev.com/ghpvc/?username=Aditya-Bhate&color=brightgreen" />
@@ -13,7 +11,7 @@
 ---
 ### About Me :)
 
-- I'm Aditya Bhate, currently pursuing Bachelors's in Computer Science & Engineering 🎓 from VIT Bhopal 🏛
+- I'm Aditya Bhate, currently pursuing Bachelors's in Computer Science & Engineering 🎓 from Vellore Institute of Technology. 🏛
 
 - I'm Passionate to learn new Technology , concepts and implement new ideas !
  Curious by nature !
@@ -68,7 +66,19 @@ I thoroughly enjoy tackling problems pertaining to technology and coming up with
 <code><img height="30" src="https://img.icons8.com/fluent/48/000000/microsoft-powerpoint-2019.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/ms-word.png"/></code>
 
+---
 
+<details>	
+  <br/>
+  <summary><b>⚙️ PC Specs and IDEs I use </b></summary>
+  	<ul>
+      <li><b>OS:</b> Windows 10 Home  </li>
+	    <li><b>Laptop: </b> HP Pavilion 15-9300H CPU, GTX 1050</li>
+  	  <li><b>Browser: </b> Google Chrome/Microsoft Edge </li>
+	    <li><b>Code Editor:</b>  VSCode , Codeblocks , Jupyter Notebook  
+   </li>
+	</ul>	
+</details>
 
 
 ---
@@ -101,6 +111,7 @@ I thoroughly enjoy tackling problems pertaining to technology and coming up with
  
 
 <!--
+<img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="200" height="100"/>
 **Aditya-Bhate/Aditya-Bhate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
