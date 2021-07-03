@@ -25,7 +25,7 @@
 I thoroughly enjoy tackling problems pertaining to technology and coming up with novel ideas.
 
 ---
-<img align="right" src="https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png" width="400">
+<img align="right" src="https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png" width="350">
 
 ### Some more Information about me :
 🛠 I’m currently working with Python, C++, HTML, CSS, JS etc. 💻
