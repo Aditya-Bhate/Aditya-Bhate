@@ -49,6 +49,9 @@ I thoroughly enjoy tackling problems pertaining to technology and coming up with
 ❎ In case you find issues in any of my Repositories, you can Hit Me Up [here](https://github.com/Aditya-Bhate/Aditya-Bhate/issues)! 👈
 
 ---
+
+<img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="200" height="100"/>
+
 ### Languages and Tools :
 
 <code><img height="30" src="https://img.icons8.com/color/48/000000/python--v1.png"/></code>
@@ -121,7 +124,12 @@ I thoroughly enjoy tackling problems pertaining to technology and coming up with
 
 [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/aditya_bhate_/)&nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/aditya.bhate.3/)  &nbsp;<a href="mailto:adityakbhate123@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
-
+---
+	
+#### *Really looking forward to connect with more and more people . Kindly connect with me on my social handles 😉. Would be more than happy to help !* 
+	
+#### *Kindly show some support by giving ⭐ to my repositories !*
+	
  
  
 
