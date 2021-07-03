@@ -25,7 +25,11 @@
   <img align="left" alt="Aditya Bhate | Facebook" width="48px" src="https://img.shields.io/badge/-ffffff?style=flat-square&logo=Facebook" />
 </a>
 
-<p> <img img align="right" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Aditya-bhate.visitor.badge.reloaded.23.05.2021&color=55acb7&style=for-the-badge&logo=Github&text=Profile_Views" alt="Profile Views" />
+<p align=center>
+<img height="25" src="https://badges.pufler.dev/visits/Aditya-Bhate/Aditya-Bhate?color=black&logo=github" />
+<img height="25" src="https://komarev.com/ghpvc/?username=Aditya-Bhate&color=brightgreen" />
+<a href="https://github.com/Aditya-Bhate">
+</a>
 </p>
 
 
