@@ -76,7 +76,7 @@ I thoroughly enjoy tackling problems pertaining to technology and coming up with
 <details>	
   <summary><b>📊 Github Stats </b></summary><br/><br/>
 	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Bhate&layout=compact&theme=merko)](https://github.com/Aditya-Bhate/github-readme-stats)</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Bhate&layout=compact)](https://github.com/Aditya-Bhate/github-readme-stats)
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=Aditya-Bhate&show_icons=true&theme=radical&hide_border=true")](https://github.com/Aditya-Bhate)
 </br>
