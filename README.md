@@ -30,7 +30,7 @@ I thoroughly enjoy tackling problems pertaining to technology and coming up with
 ### Some more Information about me :
 🛠 I’m currently working with Python, C++, HTML, CSS, JS etc. 💻
 
-👨🏻‍💻 I’m currently learning to Machine learning, Deep Learning, NLP and much interested in Data science. 🤙
+👨🏻‍💻 I’m currently learning  Machine learning, Deep Learning, NLP and much interested in Data science. 🤙
 
 🎈 My Hobbies :-
               ◾ Interest in Sports (⚽🏀🏸🏓🏏🎾🎯🪁🎮♟) 
