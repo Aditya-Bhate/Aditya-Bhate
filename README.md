@@ -76,12 +76,11 @@ I thoroughly enjoy tackling problems pertaining to technology and coming up with
 <details>	
   <summary><b>📊 Github Stats </b></summary><br/><br/>
 	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Bhate&layout=compact)](https://github.com/Aditya-Bhate/github-readme-stats)
+<img height="220em" src="https://github-readme-stats.vercel.app/api?username=Aditya-Bhate&show_icons=true&theme=vue"/></br>
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=Aditya-Bhate&show_icons=true&theme=radical&hide_border=true")](https://github.com/Aditya-Bhate)
-</br>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aditya-Bhate&repo=github-readme-stats&show_owner=true)](https://github.com/Aditya-Bhate/github-readme-stats)
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Bhate&exclude_repo=KNN-Image Classification&show_icons=true&layout=compact&theme=buefy&langs_count=10"/>	</br>
+	
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aditya-Bhate&repo=github-readme-stats&theme=graywhite&show_owner=true)](https://github.com/Aditya-Bhate/github-readme-stats)
 
 </details>
 
