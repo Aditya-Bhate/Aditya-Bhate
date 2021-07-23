@@ -55,6 +55,7 @@ I thoroughly enjoy tackling problems pertaining to technology and coming up with
 ### Languages and Tools :
 
 <code><img height="30" src="https://img.icons8.com/color/48/000000/python--v1.png"/></code>
+<code><img height="30" src="https://pythonforfinance.net/wp-content/uploads/2019/07/Jupyter.jpg"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/c-programming.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></code>
