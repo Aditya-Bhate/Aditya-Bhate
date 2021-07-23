@@ -83,12 +83,20 @@ I thoroughly enjoy tackling problems pertaining to technology and coming up with
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aditya-Bhate&repo=github-readme-stats&theme=graywhite&show_owner=true)](https://github.com/Aditya-Bhate/github-readme-stats)
 
 </details>
-
+<details>	
+  <br/>
+  <summary><b>💥 Github Streak </b></summary>
+  	<ul>
+      <p align = "center">
+  	<img src = "https://github-readme-streak-stats.herokuapp.com/?user=Aditya-Bhate&line_height=50&hide_border=true&theme=buefy">
+      </p>
+	</ul>	
+</details>
 
 
 <details>	
   <br/>
-  <summary><b>⚙️ PC Specs and IDEs I use </b></summary>
+  <summary><b>💻 PC Specs and IDEs I use </b></summary>
   	<ul>
       <li><b>OS:</b> Windows 10 Home  </li>
 	    <li><b>Laptop: </b> HP Pavilion 15-9300H CPU, GTX 1050</li>
