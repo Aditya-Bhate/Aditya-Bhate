@@ -136,7 +136,7 @@ I thoroughly enjoy tackling problems pertaining to technology and coming up with
 	
 #### *Really looking forward to connect with more and more people . Kindly connect with me on my social handles 😉. Would be more than happy to help !* 
 	
-#### *Kindly show some support by giving ⭐ to my repositories !*
+#### *Kindly show some support 😊 by giving ⭐ to my repositories !*
 	
  
  
