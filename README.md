@@ -113,7 +113,7 @@ I thoroughly enjoy tackling problems pertaining to technology and coming up with
 
 
 
-### 📫 How to reach me :
+### 📫 How to reach me :<img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" alt="go" width="50" height="50"/>
 <a href="https://twitter.com/AdityaBhate4">
   <img align="left" alt="Aditya Bhate | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a> 
@@ -142,7 +142,7 @@ I thoroughly enjoy tackling problems pertaining to technology and coming up with
  
 
 <!--
-<img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="200" height="100"/>
+<img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="50" height="50"/>
 **Aditya-Bhate/Aditya-Bhate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
