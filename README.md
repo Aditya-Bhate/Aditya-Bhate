@@ -79,7 +79,7 @@ I thoroughly enjoy tackling problems pertaining to technology and coming up with
 	
 <img height="210em" src="https://github-readme-stats.vercel.app/api?username=Aditya-Bhate&show_icons=true&theme=vue"/></br>
 
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Bhate&exclude_repo=KNN-Image Classification&show_icons=true&layout=compact&theme=buefy&langs_count=10"/>	</br>
+<img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-Bhate&exclude_repo=KNN-Image Classification&show_icons=true&layout=compact&theme=buefy&langs_count=10"/>	</br>
 	
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aditya-Bhate&repo=github-readme-stats&theme=graywhite&show_owner=true)](https://github.com/Aditya-Bhate/github-readme-stats)
 
