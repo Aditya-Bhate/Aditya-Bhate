@@ -1,5 +1,5 @@
 <a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="200" /></a>
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" >, I'm Aditya Bhate  😎 
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px" >, I'm Aditya Bhate  😎 
 
 <p align=left>
 <img height="25" src="https://badges.pufler.dev/visits/Aditya-Bhate/Aditya-Bhate?color=black&logo=github" />
