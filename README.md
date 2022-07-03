@@ -2,7 +2,7 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px" >, I'm Aditya Bhate  😎 
 
 <p align=left>
-<img height="25" src="https://badges.pufler.dev/visits/Aditya-Bhate/Aditya-Bhate?color=black&logo=github" />
+
 <img height="25" src="https://komarev.com/ghpvc/?username=Aditya-Bhate&color=brightgreen" />
 <a href="https://github.com/Aditya-Bhate">
 </a>
@@ -19,9 +19,9 @@
  Creative and Problem Solving mindset !
  Like to talk out and listen to people's ideas !
 
- - I love to explore new technologies and use them to solve real-life problems 🤖. Currently trying Web Development 🕸️ and Strengthing my Data Structures and          Algorithm skills 👨‍🔬 as well .
+ - I love to explore new technologies and use them to solve real-life problems 🤖. Currently strengthing my Data Structures and          Algorithm skills 👨‍🔬 as well .
 
-- I gravitate more towards AI and Data science .  I am an active member when it comes to extracurricular activities. Consider dedication and hard work as my strengths.
+-  I am an active member when it comes to extracurricular activities. Consider dedication and hard work as my strengths.
 I thoroughly enjoy tackling problems pertaining to technology and coming up with novel ideas.
 
 ---
@@ -60,7 +60,7 @@ I thoroughly enjoy tackling problems pertaining to technology and coming up with
 <code><img height="30" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/css3.png"/></code>
-<code><img height="30" src="https://img.icons8.com/ios-filled/50/000000/javascript-logo.png"/></code>
+
 <code><img height="30" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/artificial-intelligence.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/git.png"/></code>
